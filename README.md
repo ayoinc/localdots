@@ -1,5 +1,7 @@
 <img src="localdots.png" height="56" />
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7a2f1383-5912-4781-9ef3-48bf4e7b2275.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/localdots?orgId=666444378491)  
+
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/rnbw/localdots)
 
 ## localdots — HTTPS domains for localhost
